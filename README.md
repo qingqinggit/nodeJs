@@ -2,7 +2,9 @@
 a test node project
 
 创建
-express -e ejs myblog
+express -e ejs myblog(使用ejs 模板)
+express --css=sass node2（使用sass 样式）
+
 
 运行
 npm start
